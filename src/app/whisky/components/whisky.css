@@ -49,10 +49,10 @@
 /* Avatar del user */
 .whisky-avatar {
   flex-shrink: 0;
-  height: 2.5rem; /* h-10 */
-  width: 2.5rem; /* w-10 */
+  height: 10.5rem; /* h-10 */
+  width: 10.5rem; /* w-10 */
   border-radius: 9999px; /* rounded-full */
-  background-color: #e5e7eb; /* bg-gray-200 */
+  background-color: #ffffff; /* bg-gray-200 */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -69,7 +69,7 @@
 /* Inicial del nombre */
 .whisky-initial {
   font-weight: 500; /* font-medium */
-  color: #4b5563; /* text-gray-600 */
+  color: #1553aa; /* text-gray-600 */
 }
 
 /* Detalles del user (nombre + email) */
@@ -87,7 +87,7 @@
 /* Email del user */
 .whisky-pais {
   font-size: 0.875rem; /* text-sm */
-  color: #6b7280; /* text-gray-500 */
+  color: #3b3c3f; /* text-gray-500 */
 }
 
 /* Contenedor del estado */

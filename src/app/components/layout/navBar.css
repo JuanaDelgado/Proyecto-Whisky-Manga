@@ -52,7 +52,7 @@
   
   .activeLink {
     border-color: #0ea5e9;
-    color: #111827;
+    color: #2247cd;
   }
   
   .inactiveLink {
@@ -103,32 +103,32 @@
     background-color: #ef4444;
   }
   
-  .userMenuButton {
+  .whiskyMenuButton {
     display: flex;
     font-size: 0.875rem;
     border-radius: 9999px;
   }
   
-  .userMenuButton:focus {
+  .whiskyMenuButton:focus {
     outline: none;
     ring-width: 2px;
     ring-offset-width: 2px;
     ring-color: #0ea5e9;
   }
   
-  .userButtonContent {
+  .whiskyButtonContent {
     display: flex;
     align-items: center;
     gap: 0.5rem;
   }
   
-  .userIcon {
+  .whiskyIcon {
     height: 2rem;
     width: 2rem;
     color: #6b7280;
   }
   
-  .userName {
+  .whiskyName {
     color: #374151;
     font-weight: 500;
     display: block;
@@ -148,7 +148,7 @@
     border: 1px solid rgba(0, 0, 0, 0.05);
   }
   
-  .dropdownUserEmail {
+  .dropdownUWhiskyPais {
     padding: 0.5rem 1rem;
     font-size: 0.875rem;
     color: #374151;

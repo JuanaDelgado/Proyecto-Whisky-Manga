@@ -32,7 +32,7 @@ export default function WhiskyDetailPage () {
         };
             fetchWhiskys();
     }, []);
-    
+    //Esto al principio muestra el “Cargando” y luego del fetch mostrará al whisky 
     return (
         <div>
             <WhiskyDetails whisky = {whisky} />

@@ -7,7 +7,7 @@ export default function Whisky ({whisky}) {
             <div className="whisky-content">
                 <div className="whisky-info">
                     {/*Agregue un link*/}
-                    <Link href={`/whiskys/${whisky.id}`}>
+                    <Link href={`/whisky/${whisky.id}`}>
                     <div className="whisky-avatar">
                         <img 
                         src = {whisky.avatar}

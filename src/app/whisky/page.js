@@ -3,6 +3,7 @@ import WhiskyList from "./components/WhiskyList";
 import { useState, useEffect } from 'react';
 
 export default function WhiskyPage() {
+    //Inicio el estado vacio
     const[whiskys, setWhiskys] = useState([]);
     const[loading, setLoading] = useState(true);
 
